@@ -1,18 +1,17 @@
 jwt:
-  time: 898496849
-  secret: hello-world
+    time: 900000
+    secret: hello-world4444
 posco:
-  name: 323423기
-  count: 20234234
-  datasource:
-    url: jdbc:mysql://?.?.?.?:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
-    username: tasty
-    password: 1234
-
+    name: 3기dev
+    count: 20
+    datasource:
+        url: jdbc:mysql://?.?.?.?:3306/insta?serverTimezone=UTC&amp
+        characterEncoding: UTF-8
+        username: root
+        password: 1234
 spring:
-  datasource:
-    url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
-    username: tasty
-    password: 1234
-
-  
+    datasource:
+        url: jdbc:mysql://?.?.?.?:3306/insta?serverTimezone=UTC&amp
+        characterEncoding: UTF-8
+        username: root
+        password: "1234"
