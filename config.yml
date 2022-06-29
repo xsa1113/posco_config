@@ -2,5 +2,5 @@ jwt:
   time: 1000
   secret: hello-world
 posco:
-  name: 3기
+  name: "${cipher}9c60de7dfc77908c68a31eb010e7c5ce3dcf5d2ada175ccdb278fde998f69bb0"
   count: 20
