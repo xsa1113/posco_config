@@ -9,4 +9,8 @@ posco:
     username: root
     password: 1234
 
-  
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/insta?serverTimezone=UTC&characterEncoding=UTF-8
+    username: root
+    password: "{chiper}1f1bfc562abca674736e8cc3ac2b059c324b12e0b2105a24555b8156d4a76a41"
